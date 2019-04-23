@@ -6,3 +6,7 @@ See the images in the docs folder.
 There is no other output than in the "docs/Intellicode Output" file
 
 Ping me at (githubusername) at g-mail
+
+environment:
+Apache Maven 3.6.0
+javac 1.8.0_212
