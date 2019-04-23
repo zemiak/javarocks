@@ -1,6 +1,8 @@
-# Build
-mvn clean package && docker build -t com.zemiak/javarocks .
+An example of the most simple JavaEE project.
+Consists of one Java file (JAX RS configuration class) so you can see errors.
 
-# RUN
+See the images in the docs folder.
 
-docker rm -f javarocks || true && docker run -d -p 8080:8080 -p 4848:4848 --name javarocks com.zemiak/javarocks 
+There is no other output than in the "docs/Intellicode Output" file
+
+Ping me at (githubusername) at g-mail
